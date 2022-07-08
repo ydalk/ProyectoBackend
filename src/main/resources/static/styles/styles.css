@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
+}
+
+:root {
+    --primary: dodgerblue;
+}
+
+#bodyIndex{
+    background-image: url(../images/Clinica.jpg);
+    background-size: cover;
+}
+
+.bodyGeneral{
+    background-color: aliceblue;
+}
+
+h2{
+    font-size: 40px;
+}
+
+main{
+    margin: 50px;
+    text-align: center;
+    color: var(--primary);
+    font-size: 35px;
+
+}
+
+header {
+    background-color: lightblue;
+    color: var(--primary);
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 100px;
+}
+
+.containerHeader{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
+
+li{
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: var(--primary);
+}
+
+a:hover{
+    color: blue;
+}
