@@ -26,24 +26,12 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         http
                 .csrf().disable()
                 .authorizeRequests()
-                .antMatchers("/index.html/**").hasRole("ADMIN")
+                .antMatchers("/user/**").hasRole("ADMIN")
                 .anyRequest()
                 .authenticated().and()
-                .formLogin();
-
-//                .csrf().disable()
-//                .authorizeRequests()
-//                .antMatchers("/user/**")
-////                .antMatchers("/odontologos.html").hasRole("USER")
-////                .antMatchers("/turnos.html").hasRole("USER")
-////                .antMatchers("/pacientes.html").hasRole("USER")
-//                .permitAll()
-//                .anyRequest()
-//                .authenticated()
-//                .and()
-//                .formLogin();
-////                .and()
-////                .logout();
+                .formLogin()
+                .and()
+                .logout();
     }
 
     @Override

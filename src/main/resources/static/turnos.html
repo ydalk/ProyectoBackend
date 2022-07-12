@@ -2,8 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Turnos</title>
+    <title>Turno</title>
     <link rel="stylesheet" href="./styles/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script type="text/javascript" src="/js/get_turno.js" ></script>
+    <script type="text/javascript" src="/js/delete_turno.js" ></script>
+    <script type="text/javascript" src="/js/put_turno.js" ></script>
 </head>
 <body class="bodyGeneral">
 <header>
@@ -12,14 +17,33 @@
         <h1>Clinica Odontol&oacute;gica CaroP</h1>
     </div>
     <ul>
-        <li><a href="/index.html">Inicio</a></li>
+        <li><a href="/">Inicio</a></li>
         <li><a href="/odontologos.html">Odontologos</a></li>
         <li><a href="/pacientes.html">Pacientes</a></li>
         <li><a href="/turnos.html">Turnos</a></li>
     </ul>
 </header>
 <main>
-    <h2>Administración de Turnos</h2>
+    <div class="container">
+        <div id="odontologo_table" class="div_table">
+            <div>
+                <table id="odontologoTable">
+                    <caption>Administración de Turnos</caption>
+                    <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Fecha turno</th>
+                        <th>Paciente</th>
+                        <th>Odontologo</th>
+                        <th><a href=""><img class="icon" src="../images/userAdd.png" alt="addUser"></a></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 </main>
 </body>
 </html>

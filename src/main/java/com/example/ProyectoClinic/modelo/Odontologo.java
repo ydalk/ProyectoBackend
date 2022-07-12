@@ -78,4 +78,13 @@ public class Odontologo {
     public void setTurnos(Set<Turno> turnos) {
         this.turnos = turnos;
     }
+
+    @Override
+    public String toString() {
+        return "Odontologo" +
+                "id=" + id +
+                ", nombre='" + nombre + '\'' +
+                ", apellido='" + apellido + '\'' +
+                ", matricula=" + matricula ;
+    }
 }

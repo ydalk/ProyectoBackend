@@ -1,1 +1,610 @@
 [2022-07-05 18:13:33] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "lo"
+[2022-07-08 22:23:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:24:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:25:17] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:25:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:25:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:28:15] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:28:19] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:28:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:28:54] [ERROR]  [GlobalExceptionHandler:19] Request method 'POST' not supported
+[2022-07-08 22:35:18] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caro', apellido='porras', matricula=123
+[2022-07-08 22:37:08] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:37:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:37:15] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:37:22] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='a', apellido='a', matricula=4
+[2022-07-08 22:40:21] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:40:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:40:28] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:40:41] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caro', apellido='porras', matricula=123
+[2022-07-08 22:40:44] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:42:00] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:42:07] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:42:17] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:42:25] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aaa', apellido='aaa', matricula=111
+[2022-07-08 22:42:30] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ddd', apellido='ggg', matricula=55
+[2022-07-08 22:42:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:44:06] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:44:44] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:44:48] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:44:52] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:44:59] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aaa', apellido='sss', matricula=22
+[2022-07-08 22:45:05] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fff', apellido='ss', matricula=44
+[2022-07-08 22:45:07] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:45:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:45:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-08 22:46:27] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-08 22:46:42] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-08 22:46:57] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-08 22:47:01] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 2
+[2022-07-09 09:33:25] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Ariadna Sofia', apellido='Fernandez', matricula=123456
+[2022-07-09 09:33:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='MIguel Angel', apellido='Porras', matricula=5689
+[2022-07-09 09:33:50] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina ', apellido='Porras Gonzalez', matricula=56849
+[2022-07-09 10:00:16] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:01:51] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:05:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:16:29] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:33:40] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='carolina', apellido='porras', matricula=123
+[2022-07-09 10:37:03] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:37:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:37:29] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='luis', apellido='mendez', matricula=398
+[2022-07-09 10:37:34] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:37:37] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:39:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:40:08] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:40:21] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aaa', apellido='ssss', matricula=444
+[2022-07-09 10:40:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:43:38] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:43:53] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ari', apellido='fernandez', matricula=7895
+[2022-07-09 10:43:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:50:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:50:56] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Ari', apellido='fernandez', matricula=854
+[2022-07-09 10:51:03] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Miguel', apellido='Porras', matricula=2136
+[2022-07-09 10:51:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:52:16] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:52:41] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:52:51] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caro', apellido='porras', matricula=895
+[2022-07-09 10:53:00] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Ari', apellido='fernandez', matricula=258
+[2022-07-09 10:53:05] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:53:30] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:55:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:56:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:56:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 10:59:49] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:00:39] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aitana', apellido='sanches', matricula=42837
+[2022-07-09 11:01:22] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='lorena', apellido='fernanda', matricula=2954668
+[2022-07-09 11:02:04] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='giselle', apellido='fernanda', matricula=57269
+[2022-07-09 11:02:41] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='juan jose', apellido='lopez bllo', matricula=257592326
+[2022-07-09 11:03:17] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='juan sebastian', apellido='torres', matricula=5762185
+[2022-07-09 11:03:23] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:04:53] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String "248657539173": Overflow: numeric value (248657539173) out of range of `java.lang.Integer` (-2147483648 -2147483647); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String "248657539173": Overflow: numeric value (248657539173) out of range of `java.lang.Integer` (-2147483648 -2147483647)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 51] (through reference chain: com.example.ProyectoClinic.modelo.Odontologo["matricula"])
+[2022-07-09 11:05:33] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='lorenso', apellido='carreño', matricula=247695
+[2022-07-09 11:05:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:06:47] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String "2469554725942398": Overflow: numeric value (2469554725942398) out of range of `java.lang.Integer` (-2147483648 -2147483647); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String "2469554725942398": Overflow: numeric value (2469554725942398) out of range of `java.lang.Integer` (-2147483648 -2147483647)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 54] (through reference chain: com.example.ProyectoClinic.modelo.Odontologo["matricula"])
+[2022-07-09 11:07:23] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='jeronimo ', apellido='torez', matricula=548764
+[2022-07-09 11:07:29] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:09:17] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String "5765585486": Overflow: numeric value (5765585486) out of range of `java.lang.Integer` (-2147483648 -2147483647); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String "5765585486": Overflow: numeric value (5765585486) out of range of `java.lang.Integer` (-2147483648 -2147483647)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 55] (through reference chain: com.example.ProyectoClinic.modelo.Odontologo["matricula"])
+[2022-07-09 11:09:52] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Maria Jose', apellido='Arias', matricula=24961
+[2022-07-09 11:09:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:10:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:10:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:10:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:33:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:33:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='prueba1', apellido='PEUEBA1', matricula=562
+[2022-07-09 11:33:47] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ari', apellido='fer', matricula=845
+[2022-07-09 11:33:53] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caro', apellido='porras', matricula=2569
+[2022-07-09 11:33:56] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:36:01] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Miguel', apellido='Fernandez Porras', matricula=562
+[2022-07-09 11:36:07] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:39:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:39:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aaa', apellido='ssss', matricula=222
+[2022-07-09 11:39:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:45:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:50:35] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:51:00] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caroilina', apellido='porras', matricula=451
+[2022-07-09 11:51:08] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Miguel', apellido='fernandez', matricula=89
+[2022-07-09 11:51:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:51:20] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 11:51:30] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 11:55:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:55:36] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='caro', apellido='arr', matricula=34
+[2022-07-09 11:55:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:55:50] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 11:57:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:57:21] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='aS', apellido='DADA', matricula=234
+[2022-07-09 11:57:26] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:57:37] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 11:59:20] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:59:28] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdfweg', apellido='sdfsg', matricula=45
+[2022-07-09 11:59:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 11:59:39] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:02:34] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:03:04] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:03:47] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:04:58] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:05:02] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:11:10] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:15:44] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:16:10] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='asfdsf', apellido='fasf', matricula=345
+[2022-07-09 12:16:13] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:22:10] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 12:23:37] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:24:06] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='gf', apellido='dsdgfh', matricula=53
+[2022-07-09 12:24:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:26:30] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 12:26:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='hshgdfg', apellido='dsfgdg', matricula=7976
+[2022-07-09 12:26:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:46:18] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:46:31] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ariadna ', apellido='fernandedz', matricula=562
+[2022-07-09 15:46:36] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='carolina ', apellido='porras', matricula=46
+[2022-07-09 15:46:39] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:46:44] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:46:49] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='qwefrs', apellido='dffasdf', matricula=23425
+[2022-07-09 15:47:00] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='erer', apellido='ryt', matricula=6567
+[2022-07-09 15:47:03] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:47:15] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:47:41] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:48:29] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:48:36] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dasda', apellido='asfsf', matricula=345
+[2022-07-09 15:48:39] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:48:44] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 15:53:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:53:57] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dh', apellido='fgh', matricula=55
+[2022-07-09 15:54:00] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:54:28] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2022-07-09 15:56:43] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 15:56:58] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdgfgd', apellido='dhfdghd', matricula=4524
+[2022-07-09 15:57:34] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:02:22] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:02:40] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sadfasdf', apellido='fsdfsad', matricula=345435
+[2022-07-09 16:02:45] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fn', apellido='fg', matricula=45
+[2022-07-09 16:02:50] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:03:29] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:04:13] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Miguel ', apellido='Fernandez', matricula=345
+[2022-07-09 16:04:39] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Miguel A', apellido='Fernandez', matricula=345
+[2022-07-09 16:04:50] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 2
+[2022-07-09 16:05:04] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=2, nombre='Ariadna', apellido='Porras', matricula=450
+[2022-07-09 16:05:28] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fdg', apellido='dhd', matricula=34
+[2022-07-09 16:05:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:05:36] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:05:36] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:05:37] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:05:37] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:05:37] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:05:37] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:08:53] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:09:02] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dgdfsg', apellido='dfgdg', matricula=5245
+[2022-07-09 16:09:07] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ghf', apellido='ghj', matricula=756
+[2022-07-09 16:09:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:09:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:09:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:09:38] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 1
+[2022-07-09 16:09:39] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 1
+[2022-07-09 16:14:30] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:14:40] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dsfsdg', apellido='ghdfjfg', matricula=4564
+[2022-07-09 16:14:44] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ghfgh', apellido='jklgl', matricula=56
+[2022-07-09 16:14:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:14:51] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:15:07] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Miguel', apellido='Fernandez', matricula=4564
+[2022-07-09 16:15:12] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-09 16:15:22] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dfgdfg', apellido='hjlhgjk', matricula=null
+[2022-07-09 16:15:27] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='hjgh', apellido='ghjgh', matricula=65
+[2022-07-09 16:15:30] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:15:36] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 16:15:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:15:45] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 4
+[2022-07-09 16:15:56] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=4, nombre='Ariadna', apellido='Porras', matricula=5854
+[2022-07-09 16:51:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:51:23] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:51:30] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='agrg', apellido='gerge', matricula=452
+[2022-07-09 16:51:33] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:51:35] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:51:38] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:51:58] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:53:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:53:42] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdfh', apellido='sghfgh', matricula=534
+[2022-07-09 16:54:20] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:54:30] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:55:52] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:55:58] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ghsgh', apellido='fghfg', matricula=45
+[2022-07-09 16:56:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:56:04] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 16:58:23] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:58:30] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='hsgh', apellido='hdg', matricula=754
+[2022-07-09 16:58:33] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 16:58:36] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:02:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:14:29] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:14:39] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='gsdg', apellido='dgd', matricula=7567
+[2022-07-09 17:14:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:14:46] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:24] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:25] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:26] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:26] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:26] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:18:33] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:18:35] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:22:28] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:22:49] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdafsdf', apellido='sdfsdf', matricula=543
+[2022-07-09 17:23:03] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:23:05] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:25:19] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:25:20] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:32:26] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:32:34] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='gsgd', apellido='sdgsd', matricula=564
+[2022-07-09 17:32:38] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:32:41] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:52:23] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:53:18] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdfhsdf', apellido='dfgdf', matricula=524
+[2022-07-09 17:53:36] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='hdh', apellido='dhdh', matricula=54
+[2022-07-09 17:53:41] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:53:49] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 17:54:00] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Ariadna', apellido='Fernandez', matricula=524
+[2022-07-09 17:54:24] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Ariadna', apellido='Fernandez', matricula=524
+[2022-07-09 17:54:32] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-09 17:54:42] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ghsfdh', apellido='dsfh', matricula=452
+[2022-07-09 17:54:45] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:54:48] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 3
+[2022-07-09 17:55:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 17:55:47] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 18:02:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:02:42] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sfhfdh', apellido='dfgdfh', matricula=346
+[2022-07-09 18:02:47] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:02:49] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 18:02:59] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Ariadana', apellido='Fernandez', matricula=346
+[2022-07-09 18:04:12] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:04:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:05:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:11:14] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:15:20] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:17:30] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dfgh', apellido='ghgf', matricula=345
+[2022-07-09 18:17:58] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 18:18:03] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 18:18:14] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Miguel ', apellido='Fernandez', matricula=345
+[2022-07-09 18:18:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Miguel ', apellido='Fernandez', matricula=345
+[2022-07-09 21:11:48] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:12:01] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina ', apellido='Porras ', matricula=215
+[2022-07-09 21:12:33] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:12:36] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:12:51] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina ', apellido='Porras G', matricula=215
+[2022-07-09 21:12:55] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:18:48] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:19:40] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:19:43] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:19:45] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:19:49] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:19:52] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:19:55] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:22:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:22:23] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina', apellido='Porras', matricula=562
+[2022-07-09 21:22:28] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:24:55] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:25:05] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Caro', apellido='porras', matricula=256
+[2022-07-09 21:25:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:25:12] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:25:22] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:25:25] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:25:27] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:25:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fhfdh', apellido='fghgh', matricula=56
+[2022-07-09 21:25:44] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:25:48] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:28:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:28:24] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina', apellido='Porars', matricula=255
+[2022-07-09 21:28:27] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:28:29] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:28:44] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras G', matricula=255
+[2022-07-09 21:29:45] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:30:55] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 21:36:53] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:37:07] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:37:13] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='asaf', apellido='dfa', matricula=23
+[2022-07-09 21:37:16] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 21:37:18] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 22:04:07] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:04:20] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina', apellido='Porras', matricula=253
+[2022-07-09 22:10:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:10:53] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='asdasda', apellido='asaf', matricula=232
+[2022-07-09 22:11:01] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='afasf', apellido='fgdfg', matricula=3423
+[2022-07-09 22:11:20] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='asd', apellido='asd', matricula=null
+[2022-07-09 22:20:32] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:47:13] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 22:47:15] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:18] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:18] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:19] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:20] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:20] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:20] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:20] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:20] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:21] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:21] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:21] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:52] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:54] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:55] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:47:55] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=2563
+[2022-07-09 22:48:05] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='af', apellido='dfas', matricula=23
+[2022-07-09 22:51:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:51:19] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sgfdf', apellido='dfgdf', matricula=342
+[2022-07-09 22:55:29] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:55:36] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sfsd', apellido='sdd', matricula=33
+[2022-07-09 22:55:44] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='erte', apellido='rter', matricula=3
+[2022-07-09 22:55:52] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 22:55:55] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 22:56:07] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=33
+[2022-07-09 22:56:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:08:52] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:08:55] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:10:16] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:10:24] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:28] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:10:29] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:10:31] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:33] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:34] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:34] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:34] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:34] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:10:35] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdfg', apellido='dfg', matricula=34
+[2022-07-09 23:13:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:13:15] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdf', apellido='fdgf', matricula=32
+[2022-07-09 23:13:19] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:13:20] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:13:22] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdf', apellido='fdgf', matricula=32
+[2022-07-09 23:13:27] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdf', apellido='fdgf', matricula=32
+[2022-07-09 23:13:27] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdf', apellido='fdgf', matricula=32
+[2022-07-09 23:13:28] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='sdf', apellido='fdgf', matricula=32
+[2022-07-09 23:13:34] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:36] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:42] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:43] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:43] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:43] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:51] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:58] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:58] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:13:58] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=32
+[2022-07-09 23:14:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:15:35] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:15:43] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dfgsdg', apellido='dfgdfg', matricula=234
+[2022-07-09 23:15:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:15:47] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:15:55] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Caro', apellido='Porras', matricula=234
+[2022-07-09 23:15:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:16:12] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:18:41] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:24:56] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String "3444444445": Overflow: numeric value (3444444445) out of range of `java.lang.Integer` (-2147483648 -2147483647); nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String "3444444445": Overflow: numeric value (3444444445) out of range of `java.lang.Integer` (-2147483648 -2147483647)
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 50] (through reference chain: com.example.ProyectoClinic.modelo.Odontologo["matricula"])
+[2022-07-09 23:25:04] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:26:10] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fdgafg', apellido='dfadfg', matricula=423
+[2022-07-09 23:26:12] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:26:14] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:26:26] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='Carolina', apellido='Porras', matricula=423
+[2022-07-09 23:26:33] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:26:42] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:35:34] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:35:39] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:44:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:44:32] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sfdgdf', apellido='dfgdfg', matricula=3423
+[2022-07-09 23:44:36] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-09 23:44:38] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-09 23:56:14] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:11:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:14:26] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:14:33] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='gadg', apellido='sdsad', matricula=343
+[2022-07-10 00:14:36] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:14:39] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-10 00:14:48] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=343
+[2022-07-10 00:14:51] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:14:59] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='vsds', apellido='sdfsd', matricula=3423
+[2022-07-10 00:15:01] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:15:05] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-10 00:22:16] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:22:27] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dfdfb', apellido='dbdf', matricula=21
+[2022-07-10 00:22:30] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:22:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='kluil', apellido='uilul', matricula=524
+[2022-07-10 00:22:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:22:45] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-10 00:22:54] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=1, nombre='carolina', apellido='porras', matricula=236
+[2022-07-10 00:22:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:23:00] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 2
+[2022-07-10 00:23:07] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=2, nombre='Andres', apellido='Parra', matricula=524
+[2022-07-10 00:23:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:23:21] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-10 00:23:47] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 00:24:11] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-10 00:24:28] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:11:20] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:11:38] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Jaider', apellido='Fernandez', matricula=2563
+[2022-07-10 15:11:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:11:50] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fghsfgh', apellido='fghsfg', matricula=543
+[2022-07-10 15:11:53] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:12:07] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 2
+[2022-07-10 15:12:18] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=2, nombre='Carolina', apellido='Porras', matricula=543
+[2022-07-10 15:12:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:12:29] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-10 15:37:32] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:44:38] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:44:48] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Miguel', apellido='Fernandez', matricula=46
+[2022-07-10 15:44:51] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:45:15] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:46:58] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:47:12] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Carolina', apellido='Porras', matricula=2563
+[2022-07-10 15:47:14] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:50:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 15:50:24] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 17:02:18] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 17:59:28] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:01:56] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:02:33] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:13:16] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:15:36] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:30:41] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:33:15] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:36:05] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 18:36:08] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:51:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 18:51:39] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:51:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-10 18:51:43] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:55:14] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:56:54] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 18:59:00] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 19:11:36] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 19:13:36] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 19:21:50] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-10 19:24:16] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 08:26:59] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 09:52:39] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:00:42] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:02:43] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:10:25] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 10:10:27] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:48:08] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:50:34] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:51:18] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:52:03] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 10:55:40] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 10:56:14] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 1
+[2022-07-11 11:37:21] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 11:45:12] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 11:49:17] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 11:49:20] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 11:52:49] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 11:53:02] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:00:59] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:01:18] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:04:32] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:04:44] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('dfgsh'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('dfgsh')
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 88] (through reference chain: com.example.ProyectoClinic.modelo.Paciente["domicilio"])
+[2022-07-11 12:07:20] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('"calle":"sdfaruz",          "numero":"56",          "localidad":"centro",          "provincia":"Cali"'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('"calle":"sdfaruz",          "numero":"56",          "localidad":"centro",          "provincia":"Cali"')
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 88] (through reference chain: com.example.ProyectoClinic.modelo.Paciente["domicilio"])
+[2022-07-11 12:16:50] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:44:46] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:45:21] [DEBUG]  [PacienteController:28] Registrando un nuevo paciente : Paciente{id=null, nombre='sdfsadf', apellido='sdfsd', dni='sdfs', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@518cd8cc
+[2022-07-11 12:45:24] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 12:45:32] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 13:40:53] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 13:44:25] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 13:46:21] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 13:46:27] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 13:46:56] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]')
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 101] (through reference chain: com.example.ProyectoClinic.modelo.Paciente["domicilio"])
+[2022-07-11 13:47:03] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]')
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 101] (through reference chain: com.example.ProyectoClinic.modelo.Paciente["domicilio"])
+[2022-07-11 13:47:44] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.ProyectoClinic.modelo.Domicilio` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('[object Object]')
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 101] (through reference chain: com.example.ProyectoClinic.modelo.Paciente["domicilio"])
+[2022-07-11 13:47:55] [ERROR]  [GlobalExceptionHandler:19] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "actualizar"
+[2022-07-11 13:59:20] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 13:59:24] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:10:51] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:13:28] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:14:08] [DEBUG]  [PacienteController:28] Registrando un nuevo paciente : Paciente{id=null, nombre='Andrea', apellido='Lopez', dni='466', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@7e000249
+[2022-07-11 14:14:17] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:14:25] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:14:43] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@7646d43d
+[2022-07-11 14:14:57] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:34:41] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:34:47] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:35:15] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@4647bdbe
+[2022-07-11 14:35:33] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@2f82eb54
+[2022-07-11 14:37:44] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:37:53] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:38:12] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@6a1c956a
+[2022-07-11 14:40:19] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:40:23] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:40:30] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@3d4e07bd
+[2022-07-11 14:41:25] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:47:51] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:56:43] [DEBUG]  [PacienteController:37] Consultando el paciente : 1
+[2022-07-11 14:56:53] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=1, nombre='jaider', apellido='fernandez', dni='56', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@3b29a48a
+[2022-07-11 14:56:57] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:57:36] [DEBUG]  [PacienteController:28] Registrando un nuevo paciente : Paciente{id=null, nombre='sdfsdf', apellido='sdfsd', dni='dsfsd', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@305a033d
+[2022-07-11 14:57:39] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 14:57:42] [DEBUG]  [PacienteController:59] Eliminando un paciente : 3
+[2022-07-11 15:19:59] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:20:02] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:20:06] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:21:59] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:22:02] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:22:05] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:22:14] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:37:49] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:38:06] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='Victoria', apellido='Torres', matricula=562
+[2022-07-11 15:38:09] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:38:20] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='adf', apellido='fgh', matricula=52
+[2022-07-11 15:38:22] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:38:26] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 4
+[2022-07-11 15:38:55] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=4, nombre='Sebastian', apellido='Ramirez', matricula=123
+[2022-07-11 15:38:59] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:39:07] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='hfh', apellido='dgff', matricula=45
+[2022-07-11 15:39:11] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 15:39:13] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 5
+[2022-07-11 15:43:09] [DEBUG]  [PacienteController:75] Listando los pacientes 
+[2022-07-11 15:43:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:06:17] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:09:00] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:16:49] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:16:52] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 2
+[2022-07-11 16:22:04] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:32:31] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:44:42] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:46:10] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:48:19] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:50:13] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 16:50:17] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:34:55] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:35:34] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:37:26] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:37:37] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='ASD', apellido='DFD', matricula=234
+[2022-07-11 20:37:39] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:37:49] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 6
+[2022-07-11 20:37:55] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=6, nombre='ASF', apellido='DFDHYG', matricula=234
+[2022-07-11 20:37:57] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:37:59] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 6
+[2022-07-11 20:38:02] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:38:09] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:38:38] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:38:44] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='sdf', apellido='df', matricula=23
+[2022-07-11 20:38:46] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:38:51] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 7
+[2022-07-11 20:38:54] [ERROR]  [GlobalExceptionHandler:19] JSON parse error: Cannot deserialize value of type `java.lang.Integer` from String "23as": not a valid `java.lang.Integer` value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Integer` from String "23as": not a valid `java.lang.Integer` value
+ at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 60] (through reference chain: com.example.ProyectoClinic.modelo.Odontologo["matricula"])
+[2022-07-11 20:38:58] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=7, nombre='fasf', apellido='dfdfasf', matricula=24
+[2022-07-11 20:39:00] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:39:02] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 7
+[2022-07-11 20:39:07] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:43:26] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:43:33] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='fasf', apellido='sdfsd', matricula=324
+[2022-07-11 20:43:35] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:43:37] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 8
+[2022-07-11 20:43:53] [DEBUG]  [OdontologoController:25] Registrando un nuevo odontologo : Odontologoid=null, nombre='dg', apellido='dg', matricula=234
+[2022-07-11 20:43:55] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:43:59] [DEBUG]  [OdontologoController:33] Consultando el odontologo : 9
+[2022-07-11 20:44:03] [DEBUG]  [OdontologoController:42] Actualizando un odontologo : Odontologoid=9, nombre='fg', apellido='dgfgfgd', matricula=234
+[2022-07-11 20:44:06] [DEBUG]  [OdontologoController:72] Listando los odontologos
+[2022-07-11 20:44:08] [DEBUG]  [OdontologoController:56] Eliminando el odontologo : 9
+[2022-07-11 20:44:10] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:44:22] [DEBUG]  [PacienteController:28] Registrando un nuevo paciente : Paciente{id=null, nombre='werw', apellido='ewr', dni='ewr', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@34f87e0d
+[2022-07-11 20:44:25] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:44:28] [DEBUG]  [PacienteController:37] Consultando el paciente : 4
+[2022-07-11 20:44:40] [DEBUG]  [PacienteController:45] Actualizando un paciente : Paciente{id=4, nombre='hhh', apellido='ewrhh', dni='ewrhtr', fechaIngreso=null, domicilio=com.example.ProyectoClinic.modelo.Domicilio@562ffd7d
+[2022-07-11 20:44:43] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:44:47] [DEBUG]  [PacienteController:37] Consultando el paciente : 4
+[2022-07-11 20:44:49] [DEBUG]  [PacienteController:76] Listando los pacientes 
+[2022-07-11 20:44:50] [DEBUG]  [PacienteController:59] Eliminando un paciente : 4

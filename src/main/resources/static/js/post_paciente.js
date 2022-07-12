@@ -1,15 +1,33 @@
 $(document).ready(function() {
-    $("#add_new_odontologo").submit(function(evt) {
+    $("#add_new_paciente").submit(function(evt) {
         evt.preventDefault();
+
+
+        let formDataDom = {
+            calle : $("#calle").val(),
+            numero :  $("#numero").val(),
+            localidad: $("#localidad").val(),
+            provincia: $("#provincia").val(),
+        }
+
+        let direccion = formDataDom.calle + " " + formDataDom.numero + " " + formDataDom.localidad + " " + formDataDom.provincia
 
         let formData = {
             nombre : $("#nombre").val(),
             apellido :  $("#apellido").val(),
-            matricula: $("#matricula").val(),
+            dni: $("#dni").val(),
+            fecha_ingreso: $("#fecha_ingreso").val(),
+            domicilio: {
+                calle : $("#calle").val(),
+                numero :  $("#numero").val(),
+                localidad: $("#localidad").val(),
+                provincia: $("#provincia").val(),
+            }
         }
 
+
         $.ajax({
-            url: '/odontologos/nuevo',
+            url: '/pacientes/nuevo',
             type: 'POST',
             contentType : "application/json",
             data: JSON.stringify(formData),
@@ -17,10 +35,10 @@ $(document).ready(function() {
             async: false,
             cache: false,
             success: function (response) {
-                let odontologo = response
-               console.log(response)
+                let paciente = response
+                console.log(response)
                 let successAlert = '<div class="alert alert-success alert-dismissible">' +
-                    '<strong></strong> odontologo agregado </div>'
+                    '<strong></strong> paciente agregado </div>'
                 $("#response").append(successAlert);
                 $("#response").css({"display": "block"});
 
@@ -37,17 +55,21 @@ $(document).ready(function() {
         });
     });
 
+
     function resetUploadForm(){
         $("#nombre").val("");
         $("#apellido").val("");
-        $("#matricula").val("");
+        $("#dni").val("");
+        $("#fecha_ingreso").val("");
+        $("#domicilio").val("");
+
     }
 
     (function(){
         let pathname = window.location.pathname;
         if(pathname === "/"){
             $(".nav .nav-item a:first").addClass("active");
-        } else if (pathname == "/odontologos.html") {
+        } else if (pathname == "/pacientes.html") {
             $(".nav .nav-item a:last").addClass("active");
         }
     })();

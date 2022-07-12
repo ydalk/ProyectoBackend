@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Lato', sans-serif;
+    font-family: Lato, sans-serif;
 
 }
 
@@ -11,7 +11,7 @@
 }
 
 #bodyIndex{
-    background-image: url(../images/Clinica.jpg);
+    background-image: url(../images/fondo.jpg);
     background-size: cover;
 }
 
@@ -29,6 +29,12 @@ main{
     color: var(--primary);
     font-size: 35px;
 
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
 }
 
 header {
@@ -68,4 +74,120 @@ a{
 
 a:hover{
     color: blue;
+}
+
+ /* style table */
+.table_container{
+    display: none;
+    background-color:#e6fffa;
+    padding:10px;
+    border-radius:3px
+}
+
+caption{
+    padding: 20px;
+    font-size: 25px;
+    caption-side: top;
+}
+
+td, th{
+    font-size: 20px;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.div_table{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    color: blue;
+}
+
+.icon{
+    width: 30px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icon_dir{
+    width: 30px;
+    margin: -10px auto;
+}
+
+.btn_ico{
+    border: none;
+    background-color: aliceblue;
+    padding: 0 10px;
+}
+
+ /* style modal update */
+
+.container_update{
+    display: none;
+    background-color: lightcyan;
+    padding: 10px;
+    border: solid 1px blue;
+    margin: 10px;
+    border-radius: 20px;
+    color: blue;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px cornflowerblue;
+}
+
+.form-update{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}
+
+label{
+        margin-right: 15px;
+}
+
+.btn-update{
+    padding: 6px;
+    background: dodgerblue;
+    color: lemonchiffon;
+    text-align: center;
+    border-radius: 5px;
+    border: solid 1px blue;
+    box-shadow: 3px 3px 3px cornflowerblue;
+    width: 75px;
+    margin: 0px 6px;
+}
+
+input{
+    border-radius: 5px;
+    border-color: aliceblue;
+    padding: 3px;
+}
+
+.container_crear{
+        background-color: lightcyan;
+        padding: 10px;
+        border: solid 1px blue;
+        margin: 0 auto;
+        border-radius: 20px;
+        color: blue;
+        font-size: 20px;
+        box-shadow: 5px 5px 10px cornflowerblue;
+        width: 50%;
+        display: block;
+}
+
+.control-label{
+    font-size:25px;
+}
+
+.form-create{
+    margin: 10px;
+}
+
+.titulo_update{
+    display: flex;
+    justify-content: space-around;
 }

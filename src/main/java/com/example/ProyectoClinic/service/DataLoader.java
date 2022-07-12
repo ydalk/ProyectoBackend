@@ -15,7 +15,7 @@ public class DataLoader implements ApplicationRunner {
     private IUserRepository userRepository;
 
     @Autowired
-    public DataLoader(IUserRepository userRepository){
+    public DataLoader(IUserRepository userRepository) {
         this.userRepository = userRepository;
     }
 
@@ -25,7 +25,13 @@ public class DataLoader implements ApplicationRunner {
         String hashedPassword = passwordEncoder.encode("caro123");
         BCryptPasswordEncoder passwordEncoder1 = new BCryptPasswordEncoder();
         String hashedPassword1 = passwordEncoder1.encode("admin123");
-        userRepository.save( new AppUser("carolina", "caro", "carol@clinicaodonto.com", hashedPassword, AppUserRole.USER ));
-        userRepository.save(new AppUser("Administrador", "admin", "admin@clinicaodonto.com",hashedPassword1, AppUserRole.ADMIN));
+
+        AppUser user = new AppUser("Carolina", "caro", "carol@clinicaodonto.com", hashedPassword, AppUserRole.USER);
+        AppUser admin = new AppUser("Administrador", "admin", "admin@clinicaodonto.com", hashedPassword1, AppUserRole.ADMIN);
+
+        if(!userRepository.findByEmail(user.getEmail()).isPresent()){
+            userRepository.save(user);
+            userRepository.save(admin);
+        }
     }
 }

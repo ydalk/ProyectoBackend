@@ -1,10 +1,10 @@
 package com.example.ProyectoClinic.controller;
 
-import com.example.ProyectoClinic.modelo.Odontologo;
 import com.example.ProyectoClinic.modelo.Turno;
 import com.example.ProyectoClinic.service.OdontologoService;
 import com.example.ProyectoClinic.service.PacienteService;
 import com.example.ProyectoClinic.service.TurnoService;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -23,8 +23,11 @@ public class TurnoController {
     @Autowired
     private OdontologoService odontologoService;
 
+    final static Logger log = Logger.getLogger(TurnoController.class);
+
     @PostMapping("/nuevo")
     public ResponseEntity<Turno> registarTurno(@RequestBody Turno turno){
+        log.debug("Registrando un nuevo turno : "+ turno.toString());
 
         ResponseEntity<Turno> response;
         if(pacienteService.leerPaciente(turno.getPaciente().getId()).isPresent() && odontologoService.leerOdontologo(turno.getOdontologo().getId()).isPresent()){
@@ -37,6 +40,8 @@ public class TurnoController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Turno> buscar(@PathVariable Long id){
+        log.debug("Buscando el turno : "+ id);
+
         Turno turno = turnoService.leerTurno(id).orElse(null);
 
         return ResponseEntity.ok(turno);
@@ -44,6 +49,8 @@ public class TurnoController {
 
     @PutMapping("/actualizar")
     public ResponseEntity<Turno> actualizar(@RequestBody Turno turno){
+        log.debug("Actualizando el turno : "+ turno.toString());
+
         ResponseEntity<Turno> response = null;
 
         if(turno.getId() != null && turnoService.leerTurno(turno.getId()).isPresent()){
@@ -58,6 +65,8 @@ public class TurnoController {
 
         @DeleteMapping("/{id}")
         public ResponseEntity<String> eliminar( @PathVariable Long id){
+            log.debug("Eliminando el turno : "+ id);
+
             ResponseEntity<String> response = null;
 
             if(turnoService.leerTurno(id).isPresent()){
@@ -72,6 +81,7 @@ public class TurnoController {
 
         @GetMapping
         public ResponseEntity<List<Turno>>buscarTodos(){
+            log.debug("Listando los turnos ");
 
             return ResponseEntity.ok(turnoService.getTodos());
         }
